@@ -1,4 +1,8 @@
 ## Hi there 👋
+你好，我叫BlkSword。我是一名网络安全爱好者和开发者。
+
+## I Want 🤔 
+无限进步
 
 <!--
 **BlkSword/BlkSword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
