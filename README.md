@@ -4,6 +4,9 @@
 ## I Want 🤔 
 无限进步
 
+## Ask me about💬
+wfshenm@qq.com
+
 <!--
 **BlkSword/BlkSword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
