@@ -9,6 +9,12 @@
 ## Ask me about💬
 wfshenm@qq.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlkSword)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlkSword&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!--
 **BlkSword/BlkSword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
