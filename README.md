@@ -9,9 +9,7 @@
 ## Ask me about💬
 wfshenm@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlkSword)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlkSword&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlkSword)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlkSword&layout=compact)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlkSword&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
