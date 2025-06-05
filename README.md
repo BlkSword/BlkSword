@@ -9,7 +9,7 @@
 ## Ask me about💬
 wfshenm@qq.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlkSword"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlkSword">
+<img src="https://github-readme-stats.vercel.app/api?username=BlkSword"> 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlkSword&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
