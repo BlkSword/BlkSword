@@ -9,7 +9,8 @@
 ## Ask me about💬
 wfshenm@qq.com
 <!--<img src="https://github-readme-stats.vercel.app/api?username=BlkSword">-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlkSword)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlkSword">
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlkSword&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
