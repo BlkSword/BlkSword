@@ -7,12 +7,12 @@
 无限进步
 
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=BlkSword">-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlkSword&layout=donut-vertical&langs_count=50">
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlkSword&theme=github-compact)](https://github.com/BlkSword)
+[![Ashutosh's github activity graph](./profile/activity-graph.svg)](https://github.com/BlkSword)
 
 <!-- 改变世界？ -->
 
