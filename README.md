@@ -6,6 +6,9 @@
 ## I Want
 无限进步
 
+## Skills
+![Skills](https://readme.lvtao.net/api/icons?i=anaconda,androidstudio,arch,arduino,c,css,docker,flutter,git,github,gmail,golang,grafana,html,kali,kotlin,markdown,mysql,nextjs,nginx,npm,obsidian,photoshop,php,powershell,python,pytorch,raspberrypi,react,rust,sqlite,tailwindcss,typescript,ubuntu,vim,visualstudio,vite,vscode,vuejs&_=1788655055389)
+
 ## Languages
 ![Top Languages](./profile/top-langs.svg)
 
